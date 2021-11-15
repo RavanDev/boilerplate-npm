@@ -1,6 +1,6 @@
 {
-	"author": "Anvar Khamidov",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Anvar Khamidov",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
